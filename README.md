@@ -1,2 +1,2 @@
 # Prepcourse-Henry
-Este es un repositorio de prueba de Henry 
+Primer repositorio de prueba Git 
